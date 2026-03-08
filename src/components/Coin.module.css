@@ -1,0 +1,28 @@
+.containerCoin {
+  color: whitesmoke;
+  font-size: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.title {
+  color: goldenrod;
+  font-size: 24px;
+}
+
+.price, .symbol {
+  color: white;
+  font-weight: 600;
+}
+
+.positive {
+  color: limegreen;
+  font-weight: 600;
+}
+
+.negative {
+  color: crimson;
+  font-weight: 600;
+}

@@ -1,0 +1,27 @@
+.title {
+  font-size: 32px;
+  font-weight: 700;
+  color: white;
+  margin-top: 16px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.card {
+  border: 1px solid whitesmoke;
+  border-radius: 8px;
+  margin-top: 16px;
+  color: whitesmoke;
+  padding: 12px 24px;
+}
+
+.card a {
+  color:goldenrod;
+}
